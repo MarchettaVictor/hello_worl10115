@@ -7,3 +7,5 @@ This repository is built step by step in the tutorial.
 Hello I`m victor marchetta, i will work at Hope this september
 
 This line is to practice the pull method
+
+I`m not using the line bellow because yes like we said in venezuela mmgv
